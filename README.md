@@ -1,4 +1,2 @@
 # IDS
-In this project we use IDS algorithm to bring butter to a person.
-There is a robot on the table which can move in 4 directions but there are obstacles as well.
-With IDS implementation it choose the optimal way possible to get to goal.
+Developed a robot choosing the optimal way in order to deliver butter to a person on a table. There is a table full of obstacles, n number of butter slices (at least one), and a corresponding number of people who are waiting around the table to be served by the butter piece(s). The robot has the responsibility to give the butter to a person with fewer possible moves. It can move in 4 ways: up, down, left, and right.
