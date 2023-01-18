@@ -1,2 +1,2 @@
-# IDS
+# iterative deepening depth-first search (IDS)
 Developed a robot choosing the optimal way in order to deliver butter to a person on a table. There is a table full of obstacles, n number of butter slices (at least one), and a corresponding number of people who are waiting around the table to be served by the butter piece(s). The robot has the responsibility to give the butter to a person with fewer possible moves. It can move in 4 ways: up, down, left, and right.
